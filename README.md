@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Learning Blog</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            background-color: lightblue;
+            color: white;
+            padding: 10px;
+        }
+        .menu-button {
+            margin-right: 20px;
+            padding: 10px;
+            background-color: white;
+            color: lightblue;
+            border: none;
+            cursor: pointer;
+        }
+        .menu-button:hover {
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <button class="menu-button">Menu</button>
+    <h1>ENGLISH LEARNING BLOG</h1>
+</header>
+
+</body>
+</html>
